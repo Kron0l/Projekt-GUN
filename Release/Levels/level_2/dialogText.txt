@@ -1,0 +1,2 @@
+Jump while on moving platform to have momentum
+Use your second bullet to wall jump

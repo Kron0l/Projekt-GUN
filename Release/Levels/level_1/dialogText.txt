@@ -1,0 +1,18 @@
+Chests will grant you rewards
+Holes make you lose health points
+Use your gun with LMB
+Ennemies will try to kill you
+Point your gun to the ground and shoot to burst
+Move with Q and D
+Your ammo recharges when you touch the ground
+Platforms are accessible from below
+Jump with Spacebar
+Boss are strong ennemies !
+Traps will hurt you if you hit them
+Closed doors can be opened by activating a lever
+
+
+
+
+
+

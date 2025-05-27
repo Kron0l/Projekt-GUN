@@ -1,0 +1,4 @@
+Shield ONCE 150 Gives a temporary extra health point
+Sharpened_Bullet PERMANENT 200 Increase damages
+Rallying_Flag ONCE 100 Gives a checkpoint that can be placed on the map by pressing "F"
+Helmet ONCE 300 Gives a permanent extra health point

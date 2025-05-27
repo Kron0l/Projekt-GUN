@@ -1,0 +1,8 @@
+anim_perso_principal_Idle.png 32 32 4 0.75
+anim_perso_principal_Fall.png 32 32 5 0.5
+anim_perso_principal_Jump.png 32 32 26 2
+anim_perso_principal_Run.png 32 32 4 0.5
+anim_perso_principal_IdleReverse.png 32 32 4 0.75
+anim_perso_principal_FallReverse.png 32 32 5 0.5
+anim_perso_principal_JumpReverse.png 32 32 26 2
+anim_perso_principal_RunReverse.png 32 32 4 0.5
